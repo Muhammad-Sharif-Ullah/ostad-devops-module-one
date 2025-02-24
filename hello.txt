@@ -1,0 +1,8 @@
+Hello, World!
+
+This is a sample hello.txt file.
+
+- Created as part of a Git and GitHub module assignment.
+- Demonstrates branching, committing, and merging in Git.
+
+Happy Coding! 🚀
